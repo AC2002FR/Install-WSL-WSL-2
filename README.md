@@ -1,5 +1,6 @@
 # Install-WSL-WSL-2
 Install WSL or WSL 2 for Windows 10 &amp; 11
+https://learn.microsoft.com/fr-fr/windows/wsl/ 
 
 # Prerequisites
 Requires Windows 10 versions 2004 and later (build 19041 and above) or Windows 11.
